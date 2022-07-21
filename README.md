@@ -13,3 +13,9 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
+
+### 🛠 Technical Stack
+* Frontend: JS (ES6), React, Redux-Toolkit, Redux-Thunk, Redux-Saga, HTML5, CSS3, Sass, Bootstrap, Material UI;
+* Backend: Node.js, Express, Sessions, Bcrypt, Cors;
+* DB: PostgreSQL, Sequelize;
+* Test: Jest.
