@@ -1,7 +1,6 @@
 ### Hi there! I'm Danil, Frontend-Developer!
 
 <p> I like programming, football, videogames and cinema. </p>
-<p> PERN stack </p>
 <p> Main contact: https://t.me/tele_slice </p>
 
 ### Contacts
@@ -15,7 +14,7 @@
 </p>
 
 ### 🛠 Technical Stack
-* Frontend: JS (ES6), React, Redux-Toolkit, Redux-Thunk, Redux-Saga, HTML5, CSS3, Sass, Bootstrap, Material UI;
-* Backend: Node.js, Express, Sessions, Bcrypt, Cors;
-* DB: PostgreSQL, Sequelize;
+* Frontend: JS (ES6), TS, React, Vue, Material UI;
+* Backend: Node.js, Express;
+* DB: PostgreSQL;
 * Test: Jest.
